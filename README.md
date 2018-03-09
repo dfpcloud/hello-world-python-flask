@@ -1,8 +1,7 @@
 # hello-world-python-flask Dockerized Application#
-This is sample python-tornado application.
+This is sample python-flask project.
 
-#Steps:#
-Build the image using the following command
+#Build the image using the following command
 
 ```bash
 $ docker build -t simple-flask-app:latest .
